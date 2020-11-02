@@ -25,6 +25,9 @@
       }
     },
     "requirement": {
+      "network": {
+        "regionId": 1
+      },
       "addons": [
         {
           "type": "CFS",
