@@ -28,6 +28,7 @@
       "network": {
         "regionId": 1
       },
+      "tags": ["hehe","hehehe","hehehehe"],
       "environment": {
         "SECRET_TOKEN": {
           "description": "A secret key for verifying the integrity of signed cookies.",
