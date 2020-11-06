@@ -47,7 +47,7 @@
       "addons": [
         {
           "type": "CFS",
-          "name": "WORDPRESS_CFS"
+          "name": "WordPressCFS"
         },
         {
           "type": "CynosDB",
