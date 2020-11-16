@@ -7,7 +7,7 @@
       "client": {
         "use": "@cloudbase/framework-plugin-container",
         "inputs": {
-          "serviceName": "word_press",
+          "serviceName": "wordpress11",
           "servicePath": "/wordpress11",
           "uploadType": "image",
           "containerPort": 80,
