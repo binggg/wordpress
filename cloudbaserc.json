@@ -2,13 +2,13 @@
   "version": "2.0",
   "envId": "{{env.ENV_ID}}",
   "framework": {
-    "name": "wordpress4",
+    "name": "wordpress5",
     "plugins": {
       "client": {
         "use": "@cloudbase/framework-plugin-container",
         "inputs": {
-          "serviceName": "wordpress",
-          "servicePath": "/",
+          "serviceName": "wordpress11",
+          "servicePath": "/wordpress11",
           "uploadType": "image",
           "containerPort": 80,
           "imageInfo": {
